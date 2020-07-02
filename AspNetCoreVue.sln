@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreVue", "AspNetCoreVue.csproj", "{19625A9B-8AA7-4772-AAC8-0644F3695DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19625A9B-8AA7-4772-AAC8-0644F3695DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19625A9B-8AA7-4772-AAC8-0644F3695DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19625A9B-8AA7-4772-AAC8-0644F3695DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19625A9B-8AA7-4772-AAC8-0644F3695DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF6FB01-E2B1-4C62-9EB4-1BE8F02C173F}
+	EndGlobalSection
+EndGlobal
